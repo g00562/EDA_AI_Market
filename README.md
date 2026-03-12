@@ -9,6 +9,14 @@ The project is implemented using **Python and Jupyter Notebook**.
 
 ---
 
+## Open Report in Git Pages
+
+```
+https://g00562.github.io/EDA_AI_Market/
+```
+
+---
+
 ## Project Objectives
 The main goals of this analysis are:
 
@@ -129,19 +137,11 @@ Some insights that can be derived from this analysis include:
 
 ---
 
-## Open Report in Git Pages
-
-```
-https://g00562.github.io/EDA_AI_Market/
-```
-
----
-
 ## How to Run the Project
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-job-market-analysis.git
+git clone https://github.com/g00562/EDA_AI_Market.git
 ```
 
 ### 2. Navigate to the project folder
